@@ -30,7 +30,8 @@ Things like Block chain, Bitcoin, Bitcoin cash, Ethereum, etc are constantly com
 
 #### Process:
 
-I performed 500 rounds of simulations to determine which arm has the highest return in each simulation. In each bandit approach, I balanced between exploitation and exploration to maximize our cumulative return and minimize the regret. For each simulation, I assumed I invested $1 per day on a single token and determine how much return it can generated with that single token using different bandit algorithms. Reward for each day is calculated by the formula: ($1 / open price) * close price - $1. 
+I performed 500 rounds of simulations to determine which arm has the highest return in each simulation. In each bandit approach, I balanced between exploitation and exploration to maximize our cumulative return and minimize the regret. For each simulation, I assumed I invested $1 per day on a single token and determine how much return it can generated with that single token using different bandit algorithms. <br>
+Reward for each day is calculated by the formula: ($1 / open price) * close price - $1. 
 
 #### Algorithms Used:
 
