@@ -6,7 +6,7 @@ Optimizing Cryptocurrency Return Using Multi-Armed Bandits - Personal Project
 Prices of top cryptocurrencies including Bitcoin, Ethereum, Ripple, Bitcoin cash
 https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory
 
-![alt text](bike_share.jpg)
+![alt text](bitcoin.jpeg)
 
 #### About this dataset:  
 
