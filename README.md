@@ -2,7 +2,6 @@
 Optimizing Cryptocurrency Return Using Multi-Armed Bandits - Personal Project 
 
 #### Data: Cryptocurrency Historical Prices
-Things like Block chain, Bitcoin, Bitcoin cash, Ethereum, etc are constantly coming in the articles I read. I came across Multi-Armed Bandits in my Experiment Design class and want to see how I can optimize cryptocurrency portfolio return using multi-armed bandits. <br>
 
 Prices of top cryptocurrencies including Bitcoin, Ethereum, Ripple, Bitcoin cash
 https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory
@@ -11,19 +10,23 @@ https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory
 
 #### About this dataset:  
 
-station.csv - Contains data that represents a station where users can pickup or return bikes.
-trips.csv - Data about individual bike trips
-weather.csv - Data about the weather on a specific day for certain zip codes
+The dataset has one csv file for each currency. Price history is available on a daily basis from April 28, 2013. This dataset has the historical price information of some of the top crypto currencies by market capitalization. 
 
-#### Contributors:
+Date : date of observation <br>
+Open : Opening price on the given day <br>
+High : Highest price on the given day <br>
+Low : Lowest price on the given day <br>
+Close : Closing price on the given day <br>
+Volume : Volume of transactions on the given day <br>
+Market Cap : Market capitalization in USD
+
+#### Contributor:
 
 Arthur Qin <br>
 
 #### Goal:
 
-Bike sharing systems have been largely adopted in the Bay Area and emerging as a fast-moving phenomenon. 
-According to Wikipedia, one of the major bike-sharing system has about 10,000 annual subscribers, over 2,600 bicycles in 262 stations across San Francisco.
-In order to facilitate trip management and optimize user experience, we want to examine how exogenous weather factors' impact on the duration for each trip.
+Things like Block chain, Bitcoin, Bitcoin cash, Ethereum, etc are constantly coming in the articles I read. I came across Multi-Armed Bandits in my Experiment Design class and want to see how I can optimize cryptocurrency portfolio return using multi-armed bandits. <br>
 
 #### Process - Feature Engineering:
 
