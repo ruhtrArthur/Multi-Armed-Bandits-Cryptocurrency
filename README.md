@@ -1,10 +1,11 @@
-# Predicting Trip Duration for the SF Bay Area Bike Sharing System
+# Optimizing Cryptocurrency Return Using Multi-Armed Bandits
 Optimizing Cryptocurrency Return Using Multi-Armed Bandits - Personal Project 
 
-#### Data: San Francisco Bay Area Bike Share dataset
-The Bay Area Bike Share enables quick, easy, and affordable bike trips around the San Francisco Bay Area. 
-They make regular open data releases (this dataset is a transformed version of the data from this link), plus maintain a real-time API.
-https://www.kaggle.com/benhamner/sf-bay-area-bike-share
+#### Data: Cryptocurrency Historical Prices
+Things like Block chain, Bitcoin, Bitcoin cash, Ethereum, etc are constantly coming in the articles I read. I came across Multi-Armed Bandits in my Experiment Design class and want to see how I can optimize cryptocurrency portfolio return using multi-armed bandits. <br>
+
+Prices of top cryptocurrencies including Bitcoin, Ethereum, Ripple, Bitcoin cash
+https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory
 
 ![alt text](bike_share.jpg)
 
